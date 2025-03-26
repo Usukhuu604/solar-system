@@ -10,8 +10,8 @@ export const SolarBackground = () => {
         src="sun.png"
         alt=""
         style={{
-          width: "200px",
-          height: "200px",
+          width: "100px",
+          height: "100px",
           position: "absolute",
           top: "50%",
           left: "50%",
